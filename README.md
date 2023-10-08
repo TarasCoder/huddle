@@ -1,4 +1,4 @@
-This is made by tutorial: https://youtu.be/02zO0hZmwnw?si=TbjllUWuO0Fbk8fE
+This is made using this tutorial (Brad Traversy): https://youtu.be/02zO0hZmwnw?si=TbjllUWuO0Fbk8fE
 
 # React + Vite
 
